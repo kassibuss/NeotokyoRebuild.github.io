@@ -1,6 +1,5 @@
-
 title: Alpha v25.0 Release Notes
-summary: Release notes for Neotokyo; Rebuild Alpha v25.0
+summary: Release notes for NEOTOKYO;REBUILD v25.0
 author(s): kinoko
 
 
@@ -54,4 +53,5 @@ author(s): kinoko
 * Fixed loading packed files on Linux
 *  Prevented dereferencing NULL m_pWorldRenderList
 * Entities are no longer culled for roaming spectators
-* Fed the koi fish on Shrine
+
+* Fed the koi fish at Shrine
