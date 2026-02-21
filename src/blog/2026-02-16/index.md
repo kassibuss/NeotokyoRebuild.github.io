@@ -51,7 +51,7 @@ author(s): kinoko
 ## General fixes/changes/additions
 * Added coin flip (write .coin in chat to flip a coin)
 * Fixed loading packed files on Linux
-*  Prevented dereferencing NULL m_pWorldRenderList
+* Prevented dereferencing NULL m_pWorldRenderList
 * Entities are no longer culled for roaming spectators
-
 * Fed the koi fish at Shrine
+
