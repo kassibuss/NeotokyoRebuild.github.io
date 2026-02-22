@@ -6,7 +6,7 @@ author(s): kinoko
 # Alpha v26.0 Release Notes
 2026-02-22 kinoko
 
-* [Download v26.0-alpha build](https://github.com/NeotokyoRebuild/neo/releases/tag/v24.0-alpha)
+* [Download v26.0-alpha build](https://github.com/NeotokyoRebuild/neo/releases/tag/v26.0-alpha)
 * [Install NT;RE (client)](/guide/install/)
 * [GitHub Issues (Bug reports and feature requests)](https://github.com/NeotokyoRebuild/neo/issues)
 
@@ -47,4 +47,5 @@ Various changes to the JGR gamemode:
 * Improvements to first person tracers
 * Simplified dynamic crosshair calculation
 * Fixes for voice chat related issues
+
 * Exorcised the ghost worshipping cult operating out of Saitama
