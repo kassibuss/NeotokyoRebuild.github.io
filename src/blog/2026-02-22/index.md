@@ -1,6 +1,6 @@
 title: Alpha v26.0 Release Notes
 summary: Release notes for NEOTOKYO;REBUILD v26.0
-author(s): kinoko
+author(s): kinoko, FCC
 
 
 # Alpha v26.0 Release Notes
@@ -31,9 +31,11 @@ Various changes to the JGR gamemode:
 * Teammates of the JGR can now score points (experimental)
 
 ## Bot related fixes/changes/additions
-* Various CTG related bot improvements
+* Bots now pick up the ghost in CTG mode, and iteratively share individual enemy positions with their bot teammates
+* Bot teammates position themselves relative to the ghoster for protection and scouting behaviors
+* Sole survivor bots wait in ambush near the ghost
+* Fixed bots trying to shoot the ghoster across voids of a map, or focusing solely on the ghoster without covering threat angles
 * Fixed GetSpreadInfo assertion for bot behaviors
-
  
 ## HUD fixes/changes/additions
 * Fixed bottom-left info color
@@ -47,5 +49,4 @@ Various changes to the JGR gamemode:
 * Improvements to first person tracers
 * Simplified dynamic crosshair calculation
 * Fixes for voice chat related issues
-
 * Exorcised the ghost worshipping cult operating out of Saitama
